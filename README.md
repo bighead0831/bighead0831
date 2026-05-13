@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello World! I'm Min 👋
+
+- 🌱 I’m currently learning Java, SpringBoot
+- 📫 How to reach me: bighead0831@naver.com
+- 😄 Pronouns: Rollback-Life to Development
+
 
 <!--
 **bighead0831/bighead0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
