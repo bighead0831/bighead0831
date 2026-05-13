@@ -1,7 +1,6 @@
 ## Hello World! I'm Min 👋
 
 - 🌱 I’m currently learning Java, SpringBoot
-- 📫 How to reach me: bighead0831@naver.com
 - 😄 Pronouns: Rollback-Life to Development
 
 
