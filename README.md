@@ -1,7 +1,9 @@
-## Hello World! I'm Min 👋
+## Hello World! I'm Max 👋
 
 - 🌱 I’m currently learning Java, SpringBoot
 - 😄 Pronouns: Rollback-Life to Development
+
+`From Min to Max: Small start, Maximum impact.`
 
 
 <!--
