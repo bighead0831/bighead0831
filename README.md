@@ -1,4 +1,4 @@
-## From Min to Max
+### From Min to Max
 : Small start, Maximum impact.
 <!--
 - 🌱 I’m currently learning Java, SpringBoot
