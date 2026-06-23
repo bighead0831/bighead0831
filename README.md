@@ -1,4 +1,4 @@
-#### From Min to Max : Small Start, Maximum Impact.
+#### From Min to Max : Small Start, Big Impact.
 <!--
 - 🌱 I’m currently learning Java, SpringBoot
 - 😄 Pronouns: Rollback-Life to Development
