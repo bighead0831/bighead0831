@@ -8,7 +8,7 @@
 
 
 <!--
-**bighead0831/bighead0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**77romin/77romin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
